@@ -1,27 +1,26 @@
 <div align="center">
 
-<!-- GIF -->
-<img src="https://github.com/Delonix1Regia/Delonix1Regia/blob/main/Assets/download.gif"
-     width="38%"
-     style="display: inline-block; vertical-align: middle; margin-right: 20px; max-width: 100%;" />
+<img src="https://github.com/Delonix1Regia/Delonix1Regia/blob/main/Assets/download.gif" width="45%" align="left" alt="Anime GIF" style="margin-right: 20px;"/>
 
-<!-- TEXT -->
-<div style="display: inline-block; width: 52%; vertical-align: middle; text-align: left; max-width: 100%;">
+<br><br><br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&vCenter=true&width=380&lines=Welcome+to+Diah%27s+Digital+Space;Ensuring+Quality,+One+Bug+at+a+Time"
-     width="100%"/>
+<div align="center" style="width: 50%; display: inline-block;">
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=500&lines=Welcome+to+Diah%27s+Digital+Space;Ensuring+Quality,+One+Bug+at+a+Time" width="100%"/>
 
-<span style="font-family: 'Fira Code', monospace; font-size: 14px;">
+<br>
+
+<p align="center">
+
 🛡️ QA & Automation Enthusiast<br>
 📚 Books • Music • Games • Code • Movie<br>
 🔍 Catching Bugs, Learning New Stacks 🌙
-</span>
+
+</p>
 
 </div>
 
-</div>
+<div style="clear: both;"></div>
 
 <br>
 
