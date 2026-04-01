@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/USERNAME_KAMU/Delonix1Regia/blob/main/Assets/download.gif?raw=true" width="45%" align="left" alt="Anime GIF" style="margin-right: 20px;"/>
+<img src="https://github.com/Delonix1Regia/Delonix1Regia/blob/main/Assets/download.gif" width="45%" align="left" alt="Anime GIF" style="margin-right: 20px;"/>
 
 <br><br><br>
 
