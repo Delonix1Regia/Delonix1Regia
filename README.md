@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Delonix1Regia/blob/main/Assets/download.gif?raw=true" width="75%" alt="Loopy GIF"/>
+<img src="https://github.com/Delonix1Regia/Delonix1Regia/blob/main/Assets/download.gif" width="75%" alt="Loopy GIF"/>
 <br>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=38&duration=3000&pause=200&color=9370DB&center=true&vCenter=true&width=1300&height=100&lines=printf(%22Hello,+I%27m+Diah!%22);//+Quality+Assurance+Engineer" />
