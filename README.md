@@ -5,7 +5,7 @@
 <br><br><br>
 
 <div align="center" style="margin-left: 50%; width: 45%;">
-<img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=600&size=40&duration=3500&pause=500&color=9370DB&center=true&vCenter=true&width=600&height=120&lines=Welcome+to+Diah%27s+Digital+Space;Ensuring+Quality,+One+Bug+at+a+Time+✨" width="100%" alt="Typing Intro"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=600&size=40&duration=3500&pause=500&color=9370DB&center=true&vCenter=true&width=600&height=120&lines=Welcome+to+Diah%27s+Digital+Space;Ensuring+Quality,+One+Bug+at+a+Time+✨" width="100%"/>
 <br>
 
 <pre style="width: 100%; text-align: left;">
