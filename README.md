@@ -10,13 +10,13 @@
 
 <br>
 
-<pre style="width: 100%; text-align: left;">
+<p align="center">
 
-🛡️ QA & Automation Enthusiast
-📚 Books • Music • Games • Code • Movie
+🛡️ QA & Automation Enthusiast<br>
+📚 Books • Music • Games • Code • Movie<br>
 🔍 Catching Bugs, Learning New Stacks 🌙
 
-</pre>
+</p>
 
 </div>
 
