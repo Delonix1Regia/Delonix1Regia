@@ -1,22 +1,19 @@
 <div align="center">
 
-<img src="https://github.com/Delonix1Regia/Delonix1Regia/blob/main/Assets/download.gif" width="45%" align="left" alt="Anime GIF" style="margin-right: 20px;"/>
+<img src="https://github.com/Delonix1Regia/Delonix1Regia/blob/main/Assets/download.gif"
+     width="40%"
+     style="float: left; margin-right: 30px;" />
 
-<br><br><br>
+<div style="width: 55%; text-align: left;">
 
-<div align="center" style="width: 50%; display: inline-block;">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&vCenter=true&width=420&lines=Welcome+to+Diah%27s+Digital+Space;Ensuring+Quality,+One+Bug+at+a+Time"
+     width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=500&lines=Welcome+to+Diah%27s+Digital+Space;Ensuring+Quality,+One+Bug+at+a+Time" width="100%"/>
-
-<br>
-
-<p align="center">
+<br><br>
 
 🛡️ QA & Automation Enthusiast<br>
 📚 Books • Music • Games • Code • Movie<br>
 🔍 Catching Bugs, Learning New Stacks 🌙
-
-</p>
 
 </div>
 
