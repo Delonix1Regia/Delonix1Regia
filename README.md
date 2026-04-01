@@ -6,7 +6,7 @@
 
 <div align="center" style="width: 50%; display: inline-block;">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=500&lines=Welcome+to+Diah%27s+Digital+Space;Ensuring+Quality,+One+Bug+at+a+Time+✨" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=500&lines=Welcome+to+Diah%27s+Digital+Space;Ensuring+Quality,+One+Bug+at+a+Time" width="100%"/>
 
 <br>
 
