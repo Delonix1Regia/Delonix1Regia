@@ -1,26 +1,20 @@
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; border-collapse: collapse; border: none;">
-  <tr style="border: none; background-color: transparent;">
-    <td width="45%" valign="middle" align="left" style="border: none; background-color: transparent;">
-      <img src="https://github.com/Delonix1Regia/Delonix1Regia/blob/main/Assets/download.gif?raw=true" width="100%" style="border-radius: 10px; display: block;"/>
-    </td>
-    <td width="55%" valign="middle" align="center" style="padding-left: 20px; border: none; background-color: transparent;">
-      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=400&height=80&lines=Welcome+to+Diah%27s+Space;Ensuring+Quality+Everywhere" width="100%" alt="Typing Intro"/>
-      <br>
-      <p align="center" style="font-family: sans-serif; font-size: 14px; color: #c9d1d9; margin: 0; background-color: transparent;">
-        🛡️ <b>QA & Automation Enthusiast</b><br>
-        📚 Books • Music • Games • Code • Movie<br>
-        🔍 Catching Bugs, Learning New Stacks 🌙
-      </p>
-    </td>
-  </tr>
-</table>
+<img src="https://github.com/Delonix1Regia/Delonix1Regia/blob/main/Assets/download.gif?raw=true" width="45%" align="left" style="border-radius: 10px; margin-right: 15px;"/><div align="center" style="display: inline-block; width: 50%; vertical-align: middle;">
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=400&height=80&lines=Welcome+to+Diah%27s+Space;Ensuring+Quality+Everywhere" width="100%" alt="Typing Intro"/>
+
+<p align="center" style="font-family: sans-serif; font-size: 14px; color: #c9d1d9; margin-top: 10px;">
+  🛡️ <b>QA & Automation Enthusiast</b><br>
+  📚 Books • Music • Games • Code • Movie<br>
+  🔍 Catching Bugs, Learning New Stacks 🌙
+</p>
+</div>
+
+<div style="clear: both;"></div>
 <br>
 
 ### 🛠️ Tech Stack & Tools
-
 <p align="center">
 <img src="https://img.shields.io/badge/Katalon%20Studio-31A8FF?style=for-the-badge&logo=Katalon%20Studio&logoColor=white" />
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white" />
@@ -36,11 +30,3 @@
 </p>
 
 </div>
-
----
-
-### 📝 What I Do
-* **Manual & Automation Testing:** Ensuring app quality with Katalon & Playwright.
-* **Mobile Testing:** Deep interest in Flutter-based applications.
-* **Database & Management:** Managing data with MySQL and organizing tasks via Huly/Jira.
-* **Documentation:** High attention to detail in bug reporting and test cases.
