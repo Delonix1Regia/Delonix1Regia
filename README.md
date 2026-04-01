@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/Delonix1Regia/Delonix1Regia/blob/main/Assets/download.gif" width="75%" alt="Loopy GIF"/>
-<br>
+<img src="https://github.com/Delonix1Regia/Delonix1Regia/blob/main/Assets/download.gif" width="45%" align="left" alt="Anime GIF" style="margin-right: 20px;"/>
+<br><br><br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=38&duration=3000&pause=200&color=9370DB&center=true&vCenter=true&width=1300&height=100&lines=printf(%22Hello,+I%27m+Diah!%22);//+Quality+Assurance+Engineer" />
+<div align="center" style="margin-left: 50%; width: 45%;">
+<img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=600&size=40&duration=3500&pause=500&color=9370DB&center=true&vCenter=true&width=600&height=120&lines=Welcome+to+Diah%27s+Digital+Space;Ensuring+Quality,+One+Bug+at+a+Time+✨" width="100%" alt="Typing Intro"/>
 <br>
 
 <pre style="width: 575px">
