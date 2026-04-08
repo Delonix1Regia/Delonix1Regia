@@ -41,7 +41,7 @@
 ---
 
 ### 📝 What I Do
-* **Manual & Automation Testing:** Ensuring app quality with Katalon & Playwright.
+* **Manual & Automation Testing:** Ensuring app quality with Katalon, Appium, and Postman.
 * **Mobile Testing:** Deep interest in Flutter-based applications.
 * **Database & Management:** Managing data with MySQL and organizing tasks via Huly/Jira.
 * **Documentation:** High attention to detail in bug reporting and test cases.
